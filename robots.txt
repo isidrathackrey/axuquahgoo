@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shuxaetoh.archistar.at/sitemap.xml
